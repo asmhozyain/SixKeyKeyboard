@@ -1,5 +1,5 @@
 # SixKeyKeyboard
-Six Key Keyboard, ATmega 32u4 (Arduino pro micro), Cherry mx, ws2812 2020
+Six Key Keyboard, ATmega 32u4 (Arduino pro micro), Cherry mx, ARGB ws2812 2020
 
 ![photo1688539361](https://github.com/asmhozyain/SixKeyKeyboard/assets/78702486/8e137eb6-926f-4c36-87a7-88f7877f92c0)
 
